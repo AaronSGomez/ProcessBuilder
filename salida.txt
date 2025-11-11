@@ -1,0 +1,122 @@
+
+Configuraci¢n IP de Windows
+
+   Nombre de host. . . . . . . . . : MiniLocksley
+   Sufijo DNS principal  . . . . . : 
+   Tipo de nodo. . . . . . . . . . : h¡brido
+   Enrutamiento IP habilitado. . . : no
+   Proxy WINS habilitado . . . . . : no
+
+Adaptador de Ethernet Ethernet 3:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Realtek Gaming 2.5GbE Family Controller #3
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 58-47-CA-79-D7-45
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuraci¢n autom tica habilitada . . . : s¡
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::25b3:8072:10fe:914e%27(Preferido) 
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.1.51(Preferido) 
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.1.1
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 290998218
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-2F-31-9C-88-58-47-CA-79-D7-45
+   Servidores DNS. . . . . . . . . . . . . . : 8.8.8.8
+                                       8.8.4.4
+                                       fe80::1%27
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Adaptador de Ethernet Ethernet 4:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 0A-00-27-00-00-0C
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuraci¢n autom tica habilitada . . . : s¡
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::6e3c:6b31:5f09:d39d%12(Preferido) 
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1(Preferido) 
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 906625063
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-2F-31-9C-88-58-47-CA-79-D7-45
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Direcci¢n f¡sica. . . . . . . . . . . . . : FE-70-2E-62-1B-52
+   DHCP habilitado . . . . . . . . . . . . . : s¡
+   Configuraci¢n autom tica habilitada . . . : s¡
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Direcci¢n f¡sica. . . . . . . . . . . . . : FE-70-2E-62-0B-42
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuraci¢n autom tica habilitada . . . : s¡
+
+Adaptador de LAN inal mbrica Wi-Fi 3:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : MediaTek Wi-Fi 6E MT7902 Wireless LAN Card #2
+   Direcci¢n f¡sica. . . . . . . . . . . . . : FC-70-2E-62-3B-72
+   DHCP habilitado . . . . . . . . . . . . . : s¡
+   Configuraci¢n autom tica habilitada . . . : s¡
+
+Adaptador de Ethernet VMware Network Adapter VMnet1:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet1
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 00-50-56-C0-00-01
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuraci¢n autom tica habilitada . . . : s¡
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::8e1d:578e:928:caac%18(Preferido) 
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.192.1(Preferido) 
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 234901590
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-2F-31-9C-88-58-47-CA-79-D7-45
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Adaptador de Ethernet VMware Network Adapter VMnet8:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet8
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 00-50-56-C0-00-08
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuraci¢n autom tica habilitada . . . : s¡
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::64ec:a78a:d6f2:c8dd%16(Preferido) 
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.153.1(Preferido) 
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 469782614
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-2F-31-9C-88-58-47-CA-79-D7-45
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Adaptador de Ethernet Conexi¢n de red Bluetooth 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Bluetooth Device (Personal Area Network) #2
+   Direcci¢n f¡sica. . . . . . . . . . . . . : FC-70-2E-62-3B-73
+   DHCP habilitado . . . . . . . . . . . . . : s¡
+   Configuraci¢n autom tica habilitada . . . : s¡
+
+Adaptador de Ethernet vEthernet (Default Switch):
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Descripci¢n . . . . . . . . . . . . . . . : Hyper-V Virtual Ethernet Adapter
+   Direcci¢n f¡sica. . . . . . . . . . . . . : 00-15-5D-05-15-10
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuraci¢n autom tica habilitada . . . : s¡
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::72fa:ccca:58fe:9f68%34(Preferido) 
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 172.25.80.1(Preferido) 
+   M scara de subred . . . . . . . . . . . . : 255.255.240.0
+   Puerta de enlace predeterminada . . . . . : 
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 570430813
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-2F-31-9C-88-58-47-CA-79-D7-45
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
